@@ -1,0 +1,9 @@
+{
+  "$schema": "./build.schema.json",
+  "Solution": "ConsoleApp.sln",
+  "sonarUrl": "http://172.27.30.214:9000",
+  "nugetUrl": "http://172.27.30.3/nuget/approved-nuget/",
+  "sonarLogin": "sqp_d367065fe87a01dc56552affabb89a2b4b45c9a4",
+  "nugetApi": "804a16a937ba1055726bd0534a6b36416398ff65",
+  "projectName": "ConsoleApp.sln"
+}

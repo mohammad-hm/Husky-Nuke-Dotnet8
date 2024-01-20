@@ -9,7 +9,8 @@
 *.user
 *.userosscache
 *.sln.docstates
-
+.vscode
+.idea
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -208,6 +209,7 @@ PublishScripts/
 
 # Microsoft Azure Build Output
 csx/
+!.husky/csx/
 *.build.csdef
 
 # Microsoft Azure Emulator
@@ -376,13 +378,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# VS Code files for those working on multiple tools
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
 
 # Local History for Visual Studio Code
 .history/
